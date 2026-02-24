@@ -1,0 +1,24 @@
+## Utilisation des flashcards avec Anki
+
+### 1. Télécharger Anki
+
+Télécharger la version adaptée à votre système depuis le site officiel :
+[https://apps.ankiweb.net](https://apps.ankiweb.net)
+
+Versions disponibles : Windows, macOS, Linux, Android (AnkiDroid) et iOS.
+
+### 2. Installer Anki
+
+* Windows : exécuter le fichier `.exe` et suivre l’assistant.
+* macOS : ouvrir le fichier `.dmg` et glisser l’application dans Applications.
+* Linux : installer via le paquet fourni ou gestionnaire de paquets selon la distribution.
+
+### 3. Importer les flashcards
+
+* Ouvrir Anki
+* Cliquer sur **Importer**
+* Sélectionner le fichier `.txt` ou `.csv` du dépôt
+* Vérifier le séparateur (point-virgule ou tabulation)
+* Valider l’import
+
+Les cartes sont alors prêtes à être révisées.
